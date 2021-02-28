@@ -1,6 +1,6 @@
 # Blockchain in JS
 
-Example code that demonstrates the fundamentals of blockchain. In particular it shows how funds are sent from wallet to another by generating signed transactions of which are then verified using proof of work consensus protocol.
+Example code that demonstrates the fundamentals of blockchain. In particular it shows how funds are sent from one wallet to another by generating signed transactions which are then verified using proof of work consensus protocol.
 
 ### Result
 
